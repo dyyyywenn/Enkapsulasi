@@ -1,0 +1,13 @@
+C:\Users\ACER\source\repos\Enkapsulasi_XIRPL1_30_Wendy\Enkapsulasi_XIRPL1_30_Wendy\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_30_Wendy.exe
+C:\Users\ACER\source\repos\Enkapsulasi_XIRPL1_30_Wendy\Enkapsulasi_XIRPL1_30_Wendy\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_30_Wendy.deps.json
+C:\Users\ACER\source\repos\Enkapsulasi_XIRPL1_30_Wendy\Enkapsulasi_XIRPL1_30_Wendy\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_30_Wendy.runtimeconfig.json
+C:\Users\ACER\source\repos\Enkapsulasi_XIRPL1_30_Wendy\Enkapsulasi_XIRPL1_30_Wendy\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_30_Wendy.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Enkapsulasi_XIRPL1_30_Wendy\Enkapsulasi_XIRPL1_30_Wendy\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_30_Wendy.dll
+C:\Users\ACER\source\repos\Enkapsulasi_XIRPL1_30_Wendy\Enkapsulasi_XIRPL1_30_Wendy\bin\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_30_Wendy.pdb
+C:\Users\ACER\source\repos\Enkapsulasi_XIRPL1_30_Wendy\Enkapsulasi_XIRPL1_30_Wendy\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_30_Wendy.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\Enkapsulasi_XIRPL1_30_Wendy\Enkapsulasi_XIRPL1_30_Wendy\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_30_Wendy.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Enkapsulasi_XIRPL1_30_Wendy\Enkapsulasi_XIRPL1_30_Wendy\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_30_Wendy.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Enkapsulasi_XIRPL1_30_Wendy\Enkapsulasi_XIRPL1_30_Wendy\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_30_Wendy.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Enkapsulasi_XIRPL1_30_Wendy\Enkapsulasi_XIRPL1_30_Wendy\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_30_Wendy.dll
+C:\Users\ACER\source\repos\Enkapsulasi_XIRPL1_30_Wendy\Enkapsulasi_XIRPL1_30_Wendy\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_30_Wendy.pdb
+C:\Users\ACER\source\repos\Enkapsulasi_XIRPL1_30_Wendy\Enkapsulasi_XIRPL1_30_Wendy\obj\Debug\netcoreapp3.1\Enkapsulasi_XIRPL1_30_Wendy.genruntimeconfig.cache

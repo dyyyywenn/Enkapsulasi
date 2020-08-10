@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enkapsulasi_XIRPL1_30_Wendy", "Enkapsulasi_XIRPL1_30_Wendy\Enkapsulasi_XIRPL1_30_Wendy.csproj", "{6F3912B2-E411-4E4E-BDC3-2005E6EA28D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F3912B2-E411-4E4E-BDC3-2005E6EA28D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3912B2-E411-4E4E-BDC3-2005E6EA28D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3912B2-E411-4E4E-BDC3-2005E6EA28D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3912B2-E411-4E4E-BDC3-2005E6EA28D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37FA1F4A-561F-45AF-B5E3-E3C7E90F577A}
+	EndGlobalSection
+EndGlobal
